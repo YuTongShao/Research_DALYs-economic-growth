@@ -1,6 +1,8 @@
 # Research_DALYs-economic-growth
 This repo contains the data and the codes that I use for my term paper "Exploring the Relationship Between Economic Growth, Income Levels, and Public Health: An Analysis of Global Data".
 
+Author: Yu-Tong Shao
+
 ## Data
 The data I use in the term paper consist two components: public health data and socioeconomic data of countries worldwide. The public health data contain the disability-adjusted life years (DALYs). The socioeconomic data include GDP, GDP growth, GDP per capita, urban population, physician (density), population density, elderly population, unemployment (rate), and population.
 I combine all the data into a collection of panel data named "DALY_panel_data.csv".
